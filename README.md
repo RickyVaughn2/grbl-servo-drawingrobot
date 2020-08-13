@@ -1,5 +1,5 @@
 # grbl-servo-drawingrobot
-GRBL for custom drawing robot
+GRBL for a custom drawing robot
 
 This was taken directly from https://github.com/evil-mad/EggBot.  
 You can also check out the original grbl at https://github.com/grbl/grbl.  
